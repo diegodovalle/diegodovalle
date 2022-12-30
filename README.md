@@ -1,4 +1,22 @@
-### Olá, me chamo Diego Garcia, especialista em WordPress CMS (PHP), atuando 6 anos no mercado como desenvolvedor web, SEO e plataformas sociais de media, com experiência na área e conhecimento avançado em tecnologia da informação. Conhecedor das plataformas midiáticas de comunicação, metodologias ágeis e com experiência em marketing online. Proativo e proficiente na resolução de problemas. Possuo experiência de 14 anos como Analista / Administrador de Infraestrutura em TI.
+### Desenvolvedor Frontend Web com foco em Wordpress, Bootstrap e Template Parts/Pages, Advanced Custom Field (ACF) e Themes/Plugins Custom.
+
+Experiente com portfólio de projetos em agências de design, marketing e publicidade.
+
+Conhecimento em metodologias de desenvolvimento Ágil.
+
+Conhecimento vasto em Adobe Photoshop, XD, Zeplin e Figma para manuseio e exportação web.
+
+Experiência sólida em:
+
+Registro de domínio;
+DNS / CloudFlare;
+Web Hosting;
+Servidores VPS / Dedicados;
+Migração de website para novos servidores;
+Linux;
+Banco de dados MySQL.
+
+Mais de 15 anos de experiência na área de TI, autodidata e apaixonado por resolução de problemas
 
 #### Redes Sociais
 
